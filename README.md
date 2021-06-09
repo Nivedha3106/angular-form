@@ -5,7 +5,7 @@ Tamil Nadu statistics<br>
 The form contains <br>
   ▪District Name<br>
   ▪Area(sq)<br>
-  ▪Population<br>
+  ▪Population<br><br>
 Action buttons:<br>
   ▪Show biggest district by areas<br>
   ▪Highly populated district<br>

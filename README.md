@@ -1,7 +1,7 @@
 # angular-form
 
 A simple static form using AngularJs for District search. <br>
-Tamil Nadu statistics<br>
+Tamil Nadu statistics<br><br>
 The form contains <br>
   ▪District Name<br>
   ▪Area(sq)<br>

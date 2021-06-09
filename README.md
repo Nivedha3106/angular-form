@@ -3,11 +3,11 @@
 A simple static form using AngularJs for District search. <br>
 Tamil Nadu statistics<br>
 The form contains <br>
-  ▪District Name<br>
-  ▪Area(sq)<br>
-  ▪Population<br>
+  &nbsp▪District Name<br>
+  &nbsp▪Area(sq)<br>
+  &nbsp▪Population<br>
 Action buttons:<br>
-  ▪Show biggest district by areas<br>
-  ▪Highly populated district<br>
-  ▪list of district sorted by area size<br>
+  &nbsp▪Show biggest district by areas<br>
+  &nbsp▪Highly populated district<br>
+  &nbsp▪list of district sorted by area size<br>
  

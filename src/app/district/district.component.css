@@ -1,0 +1,73 @@
+.container {
+	border: 3px solid black;
+	padding: 50px;
+	width: 700px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.container1 {
+	margin-bottom: 100px;
+	width: 300px;
+	position: relative;
+}
+
+.container2, .container3 {
+	border: 2px solid black;
+	padding: 20px;
+	margin-top: 50px;
+}
+label {
+  font-weight: bold;
+  font-size:18px;
+}
+
+.container1 input {
+	outline: none;
+	border: none;
+	width: 170px;
+	height: 30px;
+	background: #a8a8a8;
+	position: absolute;
+	right: 10px;
+}
+
+.btn {
+	outline: none;
+	border: none;
+	background: #a8a8a8;
+	position: absolute;
+	right: 5px;
+  width:80px;
+  height:30px;
+	margin-top: 30px;
+}
+
+.radio-inline {
+	margin-left: 50px;
+}
+
+input[type='radio']:checked:after {
+  width: 12px;
+  height: 12px;
+  border-radius: 12px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  background-color: lightgreen;
+  content: '';
+  border: 2px solid darkgreen;
+}
+
+input[type='radio']:after {
+  width: 200px;
+  height: 10px;
+  border-radius: 12px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  background-color:darkgreen;
+  display: inline-block;
+}
